@@ -1,0 +1,48 @@
+<?php
+
+return [
+    'ambulances' => 'Ambulances',
+    'ambulance_number' => "Amulance number",
+    'ambulance_model' => "Ambulance model",
+    'car_year_made' => "Ambulance made year",
+    'driver_name' => "Driver name",
+    'driver_license_number' => "Driver license number",
+    'driver_phone' => "Driver phone",
+    'all_ambulances' => 'All Ambulances',
+    'id' => 'ID',
+    'ambulance_name' => 'Ambulance Name',
+    'ambulance_image' => "Ambulance Image",
+    'ambulance_price' => "Ambulance Price",
+    'created_at' => "Created At",
+    'select_all' => "Select",
+    'operations' => "Operations",
+    'ambulance_description' => "Ambulance Description",
+    'department' => "Department",
+    'ambulance_status' => "Ambulance Status",
+    'ambulance_type' => "Ambulance Type",
+    'rental' => "Rental",
+    'owned' => "Owned",
+    'available' => "available",
+    'not_available' => "Not Available",
+    'ambulance_code' => "Ambulance Code",
+    'ambulance_notes' => "Notes",
+    'company_rate' => "Company Rate",
+    'discount_percentage' => "Discount Percentage",
+    'add_ambulance' => "Add Ambulance",
+    'edit_ambulance' => "Edit Ambulance",
+    'change_status' => "Change Status",
+    'delete_ambulance' => "Delete Ambulance",
+    'delete_ambulances' => "Delete Ambulances",
+    'save_changes' => "Save Changes",
+    'close' => "Close",
+    'sure_to_delete' => "Are You Sure You Want To Delete",
+    'sure_to_change_status' => "Are You Sure You Want To Change Status Of The ambulance From ",
+    'to' => "To ",
+    'price' => "Price",
+    'ambulance_image' => "ambulance Image",
+    'appoinments' => "Appoinments",
+
+
+    
+
+];

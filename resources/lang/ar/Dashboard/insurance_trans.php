@@ -1,0 +1,36 @@
+<?php
+
+return [
+
+    'insurances' => 'شركات التأمين',
+    'id' => 'الترقيم',
+    'insurance_name' => 'اسم شركة التأمين',
+    'insurance_image' => "صورة شركة التأمين",
+    'insurance_price' => "سعر شركة التأمين",
+    'created_at' => "تاريخ الانشاء",
+    'select_all' => "تحديد" ,
+    'operations' => "العمليات",
+    'insurance_description' => "وصف شركة التأمين",
+    'department' => "القسم",
+    'status' => "حالة شركة التأمين",
+    'active' => "مفعل",
+    'deactive' => "غير مفعل",
+    'insurance_code' => "كود شركة التأمين",
+    'insurance_notes' => "ملاحظات",
+    'company_rate' => "نسبة الشركة",
+    'discount_percentage' => "نسبة الخصم",
+    'add_insurance' => "اضافه خدمة",
+    'edit_insurance' => "تعديل شركة التأمين",
+    'change_status' => "تعديل حالة شركة التأمين",
+    'delete_insurance' => "حذف شركة التأمين",
+    'delete_insurances' => "حذف شركات التأمين",
+    'save_changes' => "حفظ التعديلات",
+    'close' => "الغاء",
+    'sure_to_delete' => "هل انت متاكد من انك تريد حذف",
+    'sure_to_change_status' => "هل انت متاكد من انك تريد تغير حالة شركة التأمين من ",
+    'to' => "الي ",
+    'price' => "ثمن الكشف",
+    'insurance_image' => "صورة شركة التأمين",
+    'appoinments' => "المواعيد",
+
+];
